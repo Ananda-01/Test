@@ -1,0 +1,1 @@
+{"name":"Local: Z_Linear_Search","url":"e:\\VS code\\DSA\\Mudule3_07_06\\Z_Linear_Search.cpp","tests":[{"id":1686192160652,"input":"5 3\n1 5 4 3 2\n5\n3\n6","output":"found\nfound\nnot found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\VS code\\DSA\\Mudule3_07_06\\Z_Linear_Search.cpp","group":"local","local":true}
